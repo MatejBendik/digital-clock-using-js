@@ -1,0 +1,21 @@
+.clock {
+  padding: 20px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  border-radius: 20px;
+  margin-top: 350px;
+  background-color: #c2e2d5;
+}
+
+.time span {
+  display: inline;
+  color: #3e4653;
+  font-weight: bold;
+  line-height: 70px;
+  font-size: 70px;
+  padding: 5px;
+}
+
+body {
+  background-color: #7f8c8c;
+}
