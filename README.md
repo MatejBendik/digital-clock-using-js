@@ -2,4 +2,4 @@
 
 It's Real time digital clock created by using JavaScript. 
 
-![alt text](https://imgur.com/a/dhazy0p)
+![img](https://imgur.com/a/dhazy0p)
